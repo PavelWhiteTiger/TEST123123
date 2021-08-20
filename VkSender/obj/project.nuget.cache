@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "6ppeAmc6pKf0tBPEkW1drKKAy3X3lVOykgchoHj73biXPnabSfjlDp2OKxoB6pn9wNHEJKIF2hm1cZuwNL+QdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pavel\\Source\\Repos\\VkSender\\VkSender\\VkSender.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pavel\\.nuget\\packages\\htmlagilitypack\\1.11.34\\htmlagilitypack.1.11.34.nupkg.sha512",
+    "C:\\Users\\Pavel\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.1\\microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "C:\\Users\\Pavel\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Pavel\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Pavel\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Pavel\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Pavel\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512",
+    "C:\\Users\\Pavel\\.nuget\\packages\\vknet\\1.65.0\\vknet.1.65.0.nupkg.sha512"
+  ],
+  "logs": []
+}
